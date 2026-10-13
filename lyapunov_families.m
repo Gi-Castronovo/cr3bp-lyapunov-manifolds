@@ -11,7 +11,7 @@
 clear; clc; close all;
 addpath('functions');
 
-SAVE_FIGURES = true;          % true -> export PNGs to /figures
+SAVE_FIGURES = false;         % true -> export PNGs to /figures
 
 %% System parameters (nondimensional units: DU = Earth-Moon distance)
 GM_moon  = 4.902e3;            % km^3/s^2

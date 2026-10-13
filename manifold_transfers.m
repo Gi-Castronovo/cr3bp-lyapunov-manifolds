@@ -13,7 +13,7 @@
 clear; clc; close all;
 addpath('functions');
 
-SAVE_FIGURES = true;          % true -> export PNGs to /figures
+SAVE_FIGURES = false;         % true -> export PNGs to /figures
 ITINERARY    = 'EMX';          % trajectory to propagate: 'XME', 'EMX', 'XMX', 'EME'
 
 %% Parameters
