@@ -8,3 +8,6 @@ octave-workspace
 # OS
 .DS_Store
 Thumbs.db
+
+# Windows metadata created when copying files into WSL
+*:Zone.Identifier

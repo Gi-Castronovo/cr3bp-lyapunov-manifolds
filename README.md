@@ -32,8 +32,6 @@ stable and unstable manifolds of Lyapunov orbits.
 | 7. Poincaré maps | Intersection of the tubes with the section x = 1 − μ | Connecting states |
 | 8. Trajectories | Forward and backward propagation from the selected state | Transit / non-transit itineraries |
 
-![Algorithm overview](figures/algorithm_overview.png)
-
 The dynamics are written in the synodic frame, in nondimensional units:
 
 $$
